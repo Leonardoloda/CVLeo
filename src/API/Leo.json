@@ -1,0 +1,55 @@
+{
+  "id": "1072709315",
+  "basicInfo": {
+    "fullName": "Leonardo Lopez Daza",
+    "alias": "Leo",
+    "firstName": "Leonardo",
+    "lastName": "Lopez Daza",
+    "age": 26
+  },
+  "contactInfo": {
+    "phone": 3193189542,
+    "email": "leonardoloda2@gmail.com"
+  },
+  "bioInfo": {
+    "height": {
+      "unit": "cm",
+      "quantity": 175
+    },
+    "weight": {
+      "unit": "kg",
+      "quantity": 110
+    },
+    "RH": "A+"
+  },
+  "hobbies": [
+    {
+      "activity": "Baile",
+      "frequency": "Weekly",
+      "aptitude": "MALA"
+    },
+    {
+      "activity": "Cocteleria y Cocina",
+      "frequency": "Weekly",
+      "aptitude": "REGULAR"
+    },
+    {
+      "activity": "Cine, Series y Anime",
+      "frequency": "Daily",
+      "aptitude": "MALA"
+    }
+  ],
+  "features": [
+    { "name": "Franqueza", "quality": "Defecto" },
+    { "name": "Considerado", "quality": "Rasgo" },
+    { "name": "Qlo", "quality": "Defecto" },
+    { "name": "Cobarde", "quality": "Defecto" },
+    { "name": "Puntualidad", "quality": "Rasgo" },
+    { "name": "Critico", "quality": "Cualidad" },
+    { "name": "Self improvement", "quality": "Cualidad" },
+    { "name": "Independencia", "quality": "Rasgo" },
+    { "name": "Habilidad para no molestar a la gente", "quality": "Cualidad" },
+    { "name": "Cordial", "quality": "Rasgo" },
+    { "name": "CRM de amigos", "quality": "Cualidad" }
+  ]
+}
